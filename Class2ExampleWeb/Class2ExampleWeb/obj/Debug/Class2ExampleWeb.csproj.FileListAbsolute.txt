@@ -1,0 +1,42 @@
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\csc.exe
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\vbc.exe
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\Class2ExampleWeb.dll.config
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\Class2ExampleWeb.dll
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\Class2ExampleWeb.pdb
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\obj\Debug\Class2ExampleWeb.csprojResolveAssemblyReference.cache
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\obj\Debug\Class2ExampleWeb.dll
+c:\users\corey\documents\visual studio 2015\Projects\Class2ExampleWeb\Class2ExampleWeb\obj\Debug\Class2ExampleWeb.pdb
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\obj\Debug\Class2ExampleWeb.csproj.CoreCompileInputs.cache
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\obj\Debug\Class2ExampleWeb.csprojAssemblyReference.cache
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\csc.exe
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\vbc.exe
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\VBCSCompiler.exe
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\Class2ExampleWeb.dll.config
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\Class2ExampleWeb.dll
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\Class2ExampleWeb.pdb
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\obj\Debug\Class2ExampleWeb.csproj.CopyComplete
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\obj\Debug\Class2ExampleWeb.dll
+E:\ASP Net\Class2ExampleWeb\Class2ExampleWeb\obj\Debug\Class2ExampleWeb.pdb
